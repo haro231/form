@@ -1,0 +1,54 @@
+body {
+    text-align: center;
+    background-image: url("images%20(1).jpeg");
+
+}
+
+form{
+    border-bottom-style: ridge;
+    background-color: white;
+    margin: auto;
+    width: 400px;
+    background-image: url("56.jpg");
+}
+
+ #name{
+    font-family: "Apple Chancery";
+    font-size: 20px;
+    text-align: center;
+}
+
+#gender{
+    font-family: "Apple Chancery";
+    font-size: 20px;
+    text-align: center;
+}
+
+#origin{
+    font-family: "Apple Chancery";
+    font-size: 20px;
+    text-align: center;
+}
+#interest{
+    font-family: "Apple Chancery";
+    font-size: 20px;
+    text-align: center;
+}
+#description{
+    font-family: "Apple Chancery";
+    font-size: 20px;
+    text-align: center;
+}
+#submit{
+    font-family: "Apple Chancery";
+    font-size: 20px;
+    text-align: center;
+}
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+    background-color: darkgrey;
+    text-decoration: none;
+    color: white;
+}
