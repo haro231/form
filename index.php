@@ -14,7 +14,7 @@
     <link type="text/css" rel="stylesheet" href="style.css"/>
 </head>
 <body>
-<form method = "post" action ="index.php">
+<form method = "post" action ="idx2.php">
 
     <h1><span style ="color:silver">Enter Details</span></h1>
     <div id="name">
@@ -64,13 +64,13 @@
     <br/>
     <div id="submit">
         <!--<input <a href="index.html">Home Page</a> type="submit" name="submit" value="Submit" />-->
-        <a href= index.php class="button">Submit</a>
+        <a href= idx2.php class="button">Submit</a>
 
     </div>
 </form>
 
  <?php
- $name = $_POST['firstname'];
+/* $name = $_POST['firstname'];
  $last = $_POST['lastname'];
  $gender = $_POST['gender'];
  //$origin = $_POST['dropdown'];
@@ -92,7 +92,7 @@
  echo "<br>";
  echo "Description:   " .$description;
 
-
+*/
 ?>
 
 </body>
