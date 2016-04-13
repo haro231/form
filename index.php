@@ -70,7 +70,7 @@
 </form>
 
  <?php
-/* $name = $_POST['firstname'];
+ $name = $_POST['firstname'];
  $last = $_POST['lastname'];
  $gender = $_POST['gender'];
  //$origin = $_POST['dropdown'];
@@ -80,7 +80,7 @@
 
 
 
-
+/*
  echo "<h2>Your Input: </h2>";
  echo "FirstName:  " .$name;
  echo "<br>";
@@ -91,8 +91,8 @@
  echo "Interest:   " .$interest;
  echo "<br>";
  echo "Description:   " .$description;
-
 */
+
 ?>
 
 </body>

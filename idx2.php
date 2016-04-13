@@ -8,14 +8,14 @@
 ?>
 
 <?php
- $name = $_POST['firstname'];
+/* $name = $_POST['firstname'];
 $last = $_POST['lastname'];
 $gender = $_POST['gender'];
 //$origin = $_POST['dropdown'];
 $interest = $_POST['interest'];
 $description = $_POST['description'];
 //$pic = $_POST['fileupload'];
-
+*/
 
 
 
