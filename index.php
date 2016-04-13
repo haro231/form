@@ -5,7 +5,7 @@
  * Date: 13/04/2016
  * Time: 00:29
  */
-$name = $last = $gender = $interest = $description = "";
+//$name = $last = $gender = $interest = $description = "";
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -71,6 +71,8 @@ $name = $last = $gender = $interest = $description = "";
 </form>
 
  <?php
+ $name = $last = $gender = $interest = $description = "";
+
  $name = $_POST['firstname'];
  $last = $_POST['lastname'];
  $gender = $_POST['gender'];
