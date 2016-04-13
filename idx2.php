@@ -8,7 +8,7 @@
 ?>
 
 <?php
-/* $name = $_POST['firstname'];
+ $name = $_POST['firstname'];
 $last = $_POST['lastname'];
 $gender = $_POST['gender'];
 //$origin = $_POST['dropdown'];
@@ -30,5 +30,5 @@ echo "Interest:   " .$interest;
 echo "<br>";
 echo "Description:   " .$description;
 
-*/
+
 ?>
