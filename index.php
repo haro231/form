@@ -64,7 +64,7 @@
     <br/>
     <div id="submit">
         <!--<input <a href="index.html">Home Page</a> type="submit" name="submit" value="Submit" />-->
-        <a href= idx2.php class="button">Submit</a>
+        <a href= index.php class="button">Submit</a>
 
     </div>
 </form>
