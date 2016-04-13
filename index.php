@@ -37,7 +37,7 @@
         Country: <select name="dropdown">
             <option value="United States" selected>United States</option>
             <option value="Nigeria" selected>Nigeria</option>
-            <br  />
+            <br />
         </select>
     </div>
 
