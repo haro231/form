@@ -5,6 +5,7 @@
  * Date: 13/04/2016
  * Time: 00:29
  */
+$name = $last = $gender = $interest = $description = "";
 ?>
 <!DOCTYPE html>
 <html lang="en">
